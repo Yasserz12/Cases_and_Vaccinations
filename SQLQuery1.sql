@@ -1,4 +1,4 @@
--- explorimg the data
+-- exploring the data
 SELECT * 
 FROM Project.dbo.Cases
 WHERE continent is NULL
